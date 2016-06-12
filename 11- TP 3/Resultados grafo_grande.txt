@@ -1,0 +1,4 @@
+Componentes Conexas/Subgrupos: 1
+Diametro (tomando el mayor de las componentes): 4
+Nodos mas centrales: 107, 1383, 0, 346, 412, 58, 34, 374, 169, 481, 560, 119, 171, 387, 196, 426 (107, 1383 y el 0 deberian ser mucho mas centrales que los demas).
+Coeficiente de Agrupamiento: 0.738

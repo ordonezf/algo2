@@ -1,0 +1,6 @@
+Componentes Conexas/Subgrupos: 3
+Diametro (tomando el mayor de las componentes): 4
+Puntos de articulacion: 23, 24, 35, 45
+Coeficiente de Agrupamiento: 0.767
+Nodos mas centrales: 23, 20, 35, 0, 24, 22, 40, 30, 19, 21, 29, 45
+Si se siembra informacion en estos nodos: ["44", "45", "38", "12", "25", "43", "32", "31", "28", "20", "3", "13", "11", "2", "4", "22", "5", "29", "9"] la misma se deberia expandir a toda la red.
